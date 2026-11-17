@@ -1,25 +1,24 @@
 # Berdan Elik
 
-Mobile & Web Developer — Flutter on mobile, C#/.NET on the back end, Next.js on the web.
-I build products end to end, from the idea to the store or the domain.
+Software Developer — Mobile & Web. Flutter on mobile, C#/.NET on the back end, Next.js on the web.
 
-**Site & CV →** [berdanelik.vercel.app](https://berdanelik.vercel.app) · TR / EN
+**Portfolio & CV →** [berdanelik.vercel.app](https://berdanelik.vercel.app) · TR / EN
 
-## Selected work
+## Selected projects
 
-- **[Worvento](https://worvento.vercel.app)** — five-language vocabulary app with real-time multiplayer. Flutter + .NET 9 + PostgreSQL, built solo. *(store release in preparation)*
-- **[CepRota](https://ceprota.vercel.app)** — offline-first budgeting app, live on iOS. Team project; I own the authentication layer.
-- **[Özgür Üniversite](https://ozguruniversite.org)** — bilingual publishing platform for an academic foundation. Front end, Next.js.
-- **[Aigorithma](https://aigorithma.vercel.app)** — consultancy site statically generated in three languages, built for search.
+- **[Worvento](https://worvento.com)** — five-language vocabulary app with live multiplayer modes. Built end to end on my own: Flutter + .NET + PostgreSQL. Live on the [App Store](https://apps.apple.com/tr/app/worvento/id6809785938) and [Google Play](https://play.google.com/store/apps/details?id=com.worvento.app).
+- **[CepRota](https://ceprota.vercel.app)** — personal budgeting and financial simulation app, live on iOS and Android. Team project; I moved the authentication layer to the team’s own .NET back end.
+- **[Özgür Üniversite](https://ozguruniversite.org)** — bilingual publishing platform for an academic foundation: reader site and admin panel. Front end, Next.js.
+- **[Aigorithma](https://aigorithma.vercel.app)** — corporate site rebuilt in three languages, with a page for every service and a search-friendly setup.
 
-Case studies with the architecture decisions behind each: [berdanelik.vercel.app/tr#work](https://berdanelik.vercel.app/tr#work)
+Project details and the decisions behind them: [berdanelik.vercel.app/en#projects](https://berdanelik.vercel.app/en#projects)
 
 ## Stack
 
-Flutter · Dart · C# · .NET · PostgreSQL · React · Next.js · TypeScript · Tailwind CSS
+Flutter · C# · .NET · PostgreSQL · React · Next.js · TypeScript · Tailwind CSS
 
 ## Education
 
-BSc Mechanical Engineering (İSTE, 2022) · Web Design & Development, Associate Degree (Anadolu, 2023 — completed alongside the BSc)
+Web Design & Development, Associate Degree — Anadolu University (2023, completed alongside the BSc) · BSc Mechanical Engineering — İskenderun Technical University (2022)
 
-Open to new roles and freelance work · berdanelikk@gmail.com
+Open to new opportunities · berdanelikk@gmail.com
