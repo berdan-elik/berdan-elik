@@ -1,6 +1,6 @@
 # Berdan Elik
 
-Software Developer — Mobile & Web. Flutter on mobile, C#/.NET on the back end, Next.js on the web.
+Full Stack Developer — Mobile · Web · Backend. Flutter on mobile, C#/.NET on the back end, Next.js on the web.
 
 **Portfolio & CV →** [berdanelik.vercel.app](https://berdanelik.vercel.app) · TR / EN
 
